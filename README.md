@@ -1,4 +1,12 @@
-sublime-settings
+My Sublime Text 3 settings && packages
 ================
 
-My sublime text 3 settings and list of packages.
+### Preferences.sublime-settings
+```
+Sublime Text -> Preferences -> Settings - User
+```
+
+### Package Control.sublime-settings
+```
+~/Library/Application Support/Sublime Text 3/Packages/User
+```

@@ -1,0 +1,18 @@
+{
+  "atomic_save": false,
+  "color_scheme": "Packages/User/Monokai Soda.tmTheme",
+  "draw_indent_guides": false,
+  "font_face": "Monaco",
+  "fold_buttons": true,
+  "font_size": 12,
+  "itg_small_tabs": true,
+  "rulers":
+  [
+    120
+  ],
+  "scroll_past_end": true,
+  "trim_trailing_white_space_on_save": true,
+  "theme": "Soda Dark 3.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "tab_size": 2
+}
